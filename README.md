@@ -47,6 +47,7 @@ GarrySou:
     
 Bassterlord (FishEye):
   - ID: 181600
+  - Joined: May 12, 2019
   - Media:
     - 3331hIkn9ciZ7y9Nk4MMeNZ4zvJx8p0pgMBD.jpg
 
@@ -129,7 +130,7 @@ Ruslan1412:
   - Media:
     - photo_2022-09-11_17-03-58.jpg
     
-14. Shuno:
+Shuno:
   - ID: 205577
   - Joined: Sep 12, 2020
   - BTC: bc1ql5ewcuweqa60eld49420h64c534cll6dmqasm9
