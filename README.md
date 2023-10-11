@@ -3,11 +3,11 @@
 Electronic:
   - ID: 272784
   - Joined: Jul 20, 2022
-  - man:
+  - Male:
     - BTC: 3HeNJmgecLNHEhVn3JMcboybTgiFx4DGe3
     - Media:
       - photo_2022-09-08_22-15-38.jpg
-  - woman:
+  - Female:
     - BTC: 3HC5eCcYtW27jhD59mg4U3haWr36teiLXB
     - Media:
       - photo_2022-09-11_01-07-49.jpg
@@ -16,11 +16,11 @@ Electronic:
 Deg_B2W:
   - ID: 272203
   - Joined: Jul 16, 2022
-  - man:
+  - Male:
     - BTC: bc1qfpdwg06va2xqzlfjm3nn5c0jtszr42gxe6yrta
     - Media:
       - 556BB0CF-0248-4835-AC3E-398EDFD5ABFA.jpeg
-  - woman:
+  - Female:
     - BTC: bc1qmeexg36lehy3xx3ekf6j36venpzn65d7n3f4yc
     - Media:
       - 28389B5D-221B-4F78-B36D-DADE0E9AA6D9.jpeg
@@ -162,7 +162,7 @@ Escobar:
       - photo_2022-09-11_18-11-17.jpg
       - IMG_6674.MOV (https://wdfiles.ru/f92013)
   
-Performance:
+PerforMalece:
   - ID: 225024
   - Joined: Apr 20, 2021
   - BTC: bc1qggym4phakh6hhre827dy8q9h6j4j32vsk5axnn
